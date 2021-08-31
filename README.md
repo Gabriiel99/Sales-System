@@ -1,6 +1,26 @@
 # Sales-System
-Web application for the sale of any product, the framework technologies used were : Html - Css - Boostrap - MySql -  WordPress.
 
-To enter the system
-user : gabriel
-password : 1234
+## Website made in conjunction with a programming teacher and colleagues.
+
+### We use the following technologies
+* Html
+* Css
+* Boostrap
+* Php
+* MySql
+
+### The functions that the page fulfills are the following.
+
+* Cash control
+* Bills
+* Expenses
+* Products
+* Headings
+* Users
+* Sales
+* Database connection
+* Admin interface
+
+### To enter the system:
+* **User :** gabriel
+* **Password :** 1234
